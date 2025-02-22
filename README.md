@@ -20,5 +20,3 @@ I'm **Marko**, a passionate web developer specializing in:
 ## 📫 Let's Connect
 - [Portfolio](https://marko-vujanovic.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/marko-vujanovic/)
-
-✨ **Fun Fact**: I love creating dynamic web experiences and exploring new web technologies!
