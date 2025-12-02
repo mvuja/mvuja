@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Marko**, a passionate full-stack developer specializing in:
+I'm **Marko**, a full-stack developer specializing in:
 - 🖥️ React, Next.js, Laravel, and WordPress
 - 🎨 Building elegant, user-friendly interfaces
 - ⚙️ Developing robust backend systems and RESTful APIs
@@ -16,8 +16,11 @@ I'm **Marko**, a passionate full-stack developer specializing in:
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
+![Astro](https://img.shields.io/badge/-Astro-BC52EE?logo=astro&logoColor=white&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
+![Sanity](https://img.shields.io/badge/-Sanity-F03E2F?logo=sanity&logoColor=white&style=flat)
 
 ### Tools & DevOps
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
