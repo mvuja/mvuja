@@ -30,5 +30,5 @@ I'm **Marko**, a full-stack developer specializing in:
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 
 ## 📫 Let's Connect
-- [Portfolio](https://marko-vujanovic.netlify.app/)
+- [Portfolio](https://www.marko-vujanovic.com/)
 - [LinkedIn](https://www.linkedin.com/in/marko-vujanovic/)
