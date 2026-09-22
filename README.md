@@ -1,10 +1,12 @@
-# Hi there! 👋
+# Hi, I'm Marko 👋
 
-I'm **Marko**, a full-stack developer specializing in:
-- 🖥️ React, Next.js, Laravel, and WordPress
-- 🎨 Building elegant, user-friendly interfaces
-- ⚙️ Developing robust backend systems and RESTful APIs
-- 📖 Writing clean, maintainable code
+I'm a backend-focused full-stack developer with 6+ years of experience building web applications.
+
+I started primarily in frontend development and gradually moved deeper into backend engineering. Today, I work mainly with Laravel/PHP, while still building modern frontend applications with React, Next.js and TypeScript.
+
+My professional work includes APIs, third-party integrations, queues, data-processing workflows, relational databases, email/webhook systems, automated testing and Docker-based environments.
+
+Most of my production work is private because it was developed for employers and clients, but below are several public projects demonstrating the type of systems I build.
 
 ### Languages
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
