@@ -32,5 +32,6 @@ Most of my production work is private because it was developed for employers and
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 
 ## 📫 Let's Connect
+- [Divverse Studio](https://divverse.studio/) — My independent web design & development studio
 - [Portfolio](https://www.marko-vujanovic.com/)
 - [LinkedIn](https://www.linkedin.com/in/marko-vujanovic/)
