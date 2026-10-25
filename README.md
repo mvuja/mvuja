@@ -6,8 +6,6 @@ I started primarily in frontend development and gradually moved deeper into back
 
 My professional work includes APIs, third-party integrations, queues, data-processing workflows, relational databases, email/webhook systems, automated testing and Docker-based environments.
 
-Most of my production work is private because it was developed for employers and clients, but below are several public projects demonstrating the type of systems I build.
-
 ### Languages
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
